@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on innovative solutions for DevOps Engineering and machine learning applications.<br><br>👯 I’m looking to collaborate on projects that software development.<br><br>🤝 I’m looking for help with optimizing and software development field.<br><br>🌱 I’m currently learning about advanced techniques and DevOps Engineering.<br><br>💬 Ask me about best practices in data preprocessing or any questions related to machine learning and artificial intelligence.<br><br>⚡ Fun fact: I enjoy exploring the intersection of technology and creativity.
+🔭 I’m currently working on innovative solutions for DevOps Engineering and machine learning applications.<br>👯 I’m looking to collaborate on projects that software development.<br>🤝 I’m looking for help with optimizing and software development field.<br>🌱 I’m currently learning about advanced techniques and DevOps Engineering.<br>💬 Ask me about best practices in data preprocessing or any questions related to machine learning and artificial intelligence.<br>⚡ Fun fact: I enjoy exploring the intersection of technology and creativity.
 
 
 ## 🌐 Socials:
